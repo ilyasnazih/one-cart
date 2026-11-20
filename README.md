@@ -101,7 +101,7 @@ one-cart/
 ### Clone Repository
 
 ```bash
-git clone https://github.com/LIANN-DARDS900/one-cart.git
+git clone https://github.com/ilyasnazih/one-cart.git
 cd one-cart
 ```
 
